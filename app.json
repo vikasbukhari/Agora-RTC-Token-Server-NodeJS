@@ -1,0 +1,6 @@
+{
+    "name": "Agora RTC Only Token Server",
+    "description": "Simple Agora RTC token server Using NodeJS",
+    "keywords": ["node", "express", "agora",  "token", "server", "RTC"]
+ 
+  }
